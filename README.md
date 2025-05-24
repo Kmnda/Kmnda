@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Kmnda;DevOps+Enthusiast;Cloud+Builder;Code+Wizard&center=true&size=25">
 </p>
 
-<!-- Matrix Background Banner -->
-<p align="center">
-  <img src="https://i.gifer.com/origin/dc/dc64ce640e7e9277b93d1df0c2e83c66.gif" width="100%">
-</p>
-
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/QpzUGWcBNKQAAAAC/mayuri-steins-gate.gif" />
 </div>
