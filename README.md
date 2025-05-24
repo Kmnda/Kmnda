@@ -62,8 +62,5 @@
 <p align="center">Hello World!!</p>
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/QpzUGWcBNKQAAAAC/mayuri-steins-gate.gif" />
-</div>
-<div align="center">
   <img src="https://media1.tenor.com/m/QpzUGWcBNKQAAAAC/mayuri-steins-gate.gif" style="width: 100%; max-width: 1000px;" alt="Wide Matrix GIF" />
 </div>
