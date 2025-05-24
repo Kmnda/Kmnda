@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Kmnda;DevOps+Enthusiast;Cloud+Builder;Code+Wizard&center=true&size=25">
 </p>
 
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/QpzUGWcBNKQAAAAC/mayuri-steins-gate.gif" />
-</div>
 
 ###
 
