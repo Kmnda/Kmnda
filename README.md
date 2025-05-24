@@ -62,5 +62,5 @@
 <p align="center">Hello World!!</p>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/QpzUGWcBNKQAAAAC/mayuri-steins-gate.gif" style="width: 100%; max-width: 1000px;" alt="Wide Matrix GIF" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBibmpreTJtYXE4aHBoemJydzZ1MWVsNWxlYXloc2d0dThvM3gxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CY3A9zOlZR8uhFbeok/giphy.gif" style="width: 100%; max-width: 1000px;" alt="Wide Matrix GIF" />
 </div>
