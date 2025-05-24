@@ -1,10 +1,15 @@
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/QpzUGWcBNKQAAAAC/mayuri-steins-gate.gif"  />
-</div>
+<!-- Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Kmnda;DevOps+Enthusiast;Cloud+Builder;Code+Wizard&center=true&size=25">
+</p>
 
-###
+<!-- Matrix Background Banner -->
+<p align="center">
+  <img src="https://i.gifer.com/origin/dc/dc64ce640e7e9277b93d1df0c2e83c66.gif" width="100%">
+</p>
 
 <div align="center">
+  <img height="200" src="https://media1.tenor.com/m/QpzUGWcBNKQAAAAC/mayuri-steins-gate.gif" />
 </div>
 
 ###
@@ -13,12 +18,13 @@
 
 ###
 
-<img align="right" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="250" src="https://i.imgflip.com/65efzo.gif" />
 
 ###
 
 <div align="left">
 
+<!-- Badges -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -55,5 +61,3 @@
 </picture>
 
 <p align="center">Hello World!!</p>
-
-###
