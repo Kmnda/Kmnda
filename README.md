@@ -13,7 +13,7 @@ ter<div align="center">
 
 ###
 
-<img align="right" height="420" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="250" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
