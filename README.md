@@ -64,6 +64,6 @@
 <div align="center">
   <img 
     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBibmpreTJtYXE4aHBoemJydzZ1MWVsNWxlYXloc2d0dThvM3gxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CY3A9zOlZR8uhFbeok/giphy.gif" 
-    style="width: 100%; height: auto; aspect-ratio: 6 / 1; object-fit: cover;" 
+    style="width: 100%; height: 80px; object-fit: cover;" 
     alt="Wide Matrix GIF" />
 </div>
