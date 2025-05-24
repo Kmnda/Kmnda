@@ -1,7 +1,14 @@
 <!-- Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Kmnda;DevOps+Enthusiast;Cloud+Builder;Code+Wizard&center=true&size=25">
-</p>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <!-- Left GIF -->
+  <img src="https://media.tenor.com/-ZYOMJWw_2UAAAAi/cat-cute.gif" height="100" />
+
+  <!-- Typing Animation (via shields.io or Giphy as fallback) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Cloud+Engineer+in+Progress;Love+Linux%2C+DevOps+%26+Automation" alt="Typing SVG" />
+
+  <!-- Right GIF -->
+  <img src="https://media.tenor.com/-ZYOMJWw_2UAAAAi/cat-cute.gif" height="100" />
+</div>
 
 
 ###
