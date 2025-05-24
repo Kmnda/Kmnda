@@ -64,3 +64,14 @@
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/QpzUGWcBNKQAAAAC/mayuri-steins-gate.gif" />
 </div>
+
+<div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+  <!-- Left Wide GIF -->
+  <img src="https://media1.tenor.com/m/QpzUGWcBNKQAAAAC/mayuri-steins-gate.gif" height="120" />
+
+  <!-- Typing Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Cloud+Engineer+in+Progress;Love+Linux%2C+DevOps+%26+Automation" alt="Typing SVG" />
+
+  <!-- Right Wide GIF -->
+  <img src="https://media1.tenor.com/m/PhK1mS95eF8AAAAd/matrix-gif.gif" height="120" />
+</div>
