@@ -69,7 +69,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kmnda/kmnda/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
 <p align="left">Hello World!!</p>
 
