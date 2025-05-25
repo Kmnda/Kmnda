@@ -77,7 +77,7 @@
     alt="Wide Matrix GIF" />
 </div>
 <div align="left">
-  <a href="https://discord.com/users/1122900770234869861" target="_blank" style="text-decoration: none;">
+  <a href="https://discord.com/users/490746559693062154" target="_blank" style="text-decoration: none;">
     <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/discord.gif" height="40" alt="discord gif" />
     <span style="font-size: 18px; color: #7289DA; font-weight: bold; margin-left: 10px;">
       @mrluciferz
