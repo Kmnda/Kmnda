@@ -73,6 +73,14 @@
 <div align="center">
   <img 
     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBibmpreTJtYXE4aHBoemJydzZ1MWVsNWxlYXloc2d0dThvM3gxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CY3A9zOlZR8uhFbeok/giphy.gif" 
-    style="width: 100%; height: 80px; object-fit: cover;" 
+    style="width: 40%; height: 70px; object-fit: cover;" 
     alt="Wide Matrix GIF" />
+</div>
+<div align="left">
+  <a href="https://discord.com/users/1122900770234869861" target="_blank" style="text-decoration: none;">
+    <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/discord.gif" height="40" alt="discord gif" />
+    <span style="font-size: 18px; color: #7289DA; font-weight: bold; margin-left: 10px;">
+      @mrluciferz
+    </span>
+  </a>
 </div>
