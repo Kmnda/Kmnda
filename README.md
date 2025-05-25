@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Cloud+Engineer+in+Progress;Love+Linux%2C+DevOps+%26+Automation" alt="Typing SVG" />
 
   <!-- Right GIF -->
-  <img src="https://media.tenor.com/-ZYOMJWw_2UAAAAi/cat-cute.gif" height="100" />
+  <img src="https://media.tenor.com/-ZYOMJWw_2UAAAAi/cat-cute.gif" height="80" />
 </div>
 
 ###
