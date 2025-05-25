@@ -62,7 +62,13 @@
   <img alt="Pacman animation" src="https://raw.githubusercontent.com/kmnda/kmnda/output/pacman-contribution-graph.svg" />
 </picture>
 
-<p align="center">Hello World!!</p>
+<p align="center">
+╭╮╱╭╮╱╱╭╮╭╮╱╱╱╱╭╮╭╮╭╮╱╱╱╱╭╮╱╱╭┳┳╮
+┃┃╱┃┃╱╱┃┃┃┃╱╱╱╱┃┃┃┃┃┃╱╱╱╱┃┃╱╱┃┃┃┃
+┃╰━╯┣━━┫┃┃┃╭━━╮┃┃┃┃┃┣━━┳━┫┃╭━╯┃┃┃
+┃╭━╮┃┃━┫┃┃┃┃╭╮┃┃╰╯╰╯┃╭╮┃╭┫┃┃╭╮┣┻╯
+┃┃╱┃┃┃━┫╰┫╰┫╰╯┃╰╮╭╮╭┫╰╯┃┃┃╰┫╰╯┣┳╮
+╰╯╱╰┻━━┻━┻━┻━━╯╱╰╯╰╯╰━━┻╯╰━┻━━┻┻╯</p>
 
 <div align="center">
   <img 
