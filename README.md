@@ -33,6 +33,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-C23A35?style=for-the-badge&logo=yaml&logoColor=white)
 ![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 </div>
 
 ###
