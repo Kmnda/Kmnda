@@ -1,12 +1,8 @@
-<!-- Typing Header -->
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <!-- Left GIF -->
   <img src="https://media.tenor.com/-ZYOMJWw_2UAAAAi/cat-cute.gif" height="100" />
 
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Cloud+Engineer+in+Progress;Love+Linux%2C+DevOps+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&vCenter=true&lines=Welcome+to+my+GitHub!;Cloud+Engineer+in+Progress;Love+Linux%2C+DevOps+%26+Automation" alt="Typing SVG" />
 
-  <!-- Right GIF -->
   <img src="https://media.tenor.com/-ZYOMJWw_2UAAAAi/cat-cute.gif" height="100" />
 </div>
 
@@ -22,7 +18,6 @@
 
 <div align="left">
 
-<!-- Badges -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -35,21 +30,22 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white&style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-C23A35?style=for-the-badge&logo=yaml&logoColor=white)
+![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 </div>
 
 ###
 
 <br clear="both">
 
-<!-- Snake SVG -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmnda/kmnda/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmnda/kmnda/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/kmnda/kmnda/output/github-snake.svg" />
 </picture>
 
-<!-- Pacman SVG -->
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmnda/kmnda/output/pacman-contribution-graph-dark.svg">
   <img alt="Pacman animation" src="https://raw.githubusercontent.com/kmnda/kmnda/output/pacman-contribution-graph.svg" />
@@ -64,9 +60,8 @@
 ╰╯╱╰┻━━┻━┻━┻━━╯╱╰╯╰╯╰━━┻╯╰━┻━━┻┻╯</p>
 
 <div align="center">
-  <img 
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBibmpreTJtYXE4aHBoemJydzZ1MWVsNWxlYXloc2d0dThvM3gxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CY3A9zOlZR8uhFbeok/giphy.gif" 
-    style="width: 100%; height: 70px; object-fit: cover;" 
+  <img  
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBibmpreTJtYXE4aHBoemJydzZ1MWVsNWxlYXloc2d0dThvM3gxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CY3A9zOlZR8uhFbeok/giphy.gif"  
+    style="width: 100%; height: 70px; object-fit: cover;"  
     alt="Wide Matrix GIF" />
 </div>
-
