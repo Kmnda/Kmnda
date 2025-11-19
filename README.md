@@ -19,7 +19,6 @@ I am a passionate **DevOps & Cloud Engineer** focused on building robust CI/CD p
 <br/>
 
 ### 🛠️ Technical Arsenal
-
 **☁️ Cloud & Infrastructure**
 <br>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -32,21 +31,26 @@ I am a passionate **DevOps & Cloud Engineer** focused on building robust CI/CD p
 <br>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" />
 
 **💻 Languages & Scripting**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/YAML-C23A35?style=for-the-badge&logo=yaml&logoColor=white" />
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+
+**📊 Monitoring & API**
+<br>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F15B2A?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 <br clear="both">
 <br>
 
 ---
-
 ### 📈 GitHub Stats
 
 <div align="center">
