@@ -8,7 +8,7 @@
   <img align="right" width="150" src="https://i.imgflip.com/65efzo.gif" />
 </div>
 
-### Hi there, I'm Kmnda! 👋
+### Hi there, I'm Ashish! 👋
 
 I am a passionate **DevOps & Cloud Engineer** focused on building robust CI/CD pipelines and scalable cloud infrastructure. I specialize in automating workflows and managing containerized applications.
 
