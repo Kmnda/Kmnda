@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=20C20E&vCenter=true&lines=Welcome+to+my+Profile!;Cloud+Engineer+in+Progress;Love+Linux%2C+DevOps+%26+Automation;Building+Scalable+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=20C20E&vCenter=true&lines=Welcome+to+my+Profile!;DevOps+%26+Cloud+Engineer;Automating+Infrastructure;Love+Linux%2C+Docker+%26+K8s" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,15 +10,15 @@
 
 ### Hi there, I'm Kmnda! 👋
 
-I am a passionate **Cloud Engineer in Progress** focusing on automating infrastructure and deploying scalable applications. I enjoy solving complex problems with **Linux**, building pipelines with **Jenkins**, and orchestrating containers with **Kubernetes**.
+I am a passionate **DevOps & Cloud Engineer** focused on building robust CI/CD pipelines and scalable cloud infrastructure. I specialize in automating workflows and managing containerized applications.
 
-- 🔭 I’m currently working on **DevOps Automation Projects**
-- 🌱 I’m currently learning **Advanced Terraform & AWS Security**
-- 🐧 I love everything about **Open Source & Linux**
+- 🔭 I’m currently working on **Kubernetes & Terraform Projects**
+- 🌱 I’m currently learning **Advanced AWS Security & Monitoring**
+- 🐧 I love **Linux, Open Source, and Automation**
 
 <br/>
 
-### 🛠️ Technologies & Tools
+### 🛠️ Technical Arsenal
 
 **☁️ Cloud & Infrastructure**
 <br>
@@ -32,21 +32,15 @@ I am a passionate **Cloud Engineer in Progress** focusing on automating infrastr
 <br>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" />
 
 **💻 Languages & Scripting**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/YAML-C23A35?style=for-the-badge&logo=yaml&logoColor=white" />
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-
-**📊 Monitoring & API**
-<br>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F15B2A?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 <br clear="both">
 <br>
